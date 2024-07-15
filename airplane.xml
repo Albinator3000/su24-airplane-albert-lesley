@@ -4,9 +4,7 @@
 <properties>
 	<comment>A sample configuration file.</comment>
 	
-	<entry key="airplane.classes">airplane.g0.SerializedPlayer</entry>
-	<entry key="airplane.classes">airplane.g17.GroupSeventeenPlayer</entry>
-	<entry key="airplane.classes">airplane.g17.GroupSeventeenPlayerScramble</entry>
+	<entry key="airplane.classes">airplane.g0.SerializedPlayer airplane.g0.SerializedPlayer airplane.g4.Group4Player airplane.g4.Group4Player2 airplane.g4.Group4Player3 airplane.g4.Group4Player4 airplane.g17.GroupSeventeenPlayer airplane.g17.GroupSeventeenPlayerScramble</entry>
 	
 	<entry key = "airplane.numgames">1</entry>
 	
