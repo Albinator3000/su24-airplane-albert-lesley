@@ -6,6 +6,7 @@
 	
 	<entry key="airplane.classes">airplane.g0.SerializedPlayer</entry>
 	<entry key="airplane.classes">airplane.g17.GroupSeventeenPlayer</entry>
+	<entry key="airplane.classes">airplane.g17.GroupSeventeenPlayerScramble</entry>
 	
 	<entry key = "airplane.numgames">1</entry>
 	
